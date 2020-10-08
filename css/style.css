@@ -112,6 +112,8 @@ ul{
   }
 
   .review-bar-1{
+    margin-top: 10px;
+    margin-left:10px;
     align-self: flex-start;
   }
 
@@ -120,6 +122,8 @@ ul{
   }
 
   .review-bar-3{
+     margin-bottom: 10px;
+    margin-right:10px;
     align-self: flex-end;
   }
 
